@@ -57,7 +57,6 @@ key | action
 - CSS Comments
 - Emmet
 - Git
-- GitGutter
 - HTML-CSS-JS Prettify
 - HTMLAttributes
 - JavaScript Completions
