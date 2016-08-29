@@ -68,6 +68,7 @@ key | action
 - SASS
 - SASS Snippets
 - Sublime Linter
+	- [__Preferences__ -> __Package Settings__ -> __SublimeLinter__ -> __Settings - Default__](SublimeLinter-default.md)
 
 **without SASS**
 - Autoprefixer
