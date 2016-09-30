@@ -23,6 +23,7 @@ key | action
 `Ctrl-Shift-M` | select between brackets
 `⌘-Shift-K` | select both surrounding tags
 `⌘-Shift-J` | select with similar indentation
+`Ctrl-T` | swap 2 (or more) selections (transpose)
 `⌘-C` `⌘-X` `⌘-V` | copy/cut/paste current line (if no selection)
 `⌘-Shift-V` | paste respecting indentation
 `⌘-Shift-D` | duplicate line
