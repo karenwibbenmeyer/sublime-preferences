@@ -36,6 +36,8 @@ key | action
 `⌘-Ctrl-Up` `⌘-Ctrl-Down` | move current line up or down
 `Opt-Up` `Opt-Down` | increment up/down by 1
 `Shift-Opt-Up` `Shift-Opt-Down` | increment up/down by 10
+`⌘-KU` | uppercase
+`⌘-KL` | lowercase
 
 ## Emmet Shortcuts
 key | action
@@ -54,6 +56,7 @@ key | action
 - AlignTab
 - AutoFileName
 - Color Highlighter
+	- [__Preferences__ -> __Package Settings__ -> __ColorHighlighter__ -> __Settings - Default__](ColorHighlighter-default.md)
 - CSS Comments
 - Emmet
 - Git
