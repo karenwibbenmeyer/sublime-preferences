@@ -55,6 +55,7 @@ key | action
 
 ## Packages
 - AlignTab
+	- [__Preferences__ -> __Package Settings__ -> __AlignTab__ -> __Settings - Default__](AlignTab-default.md)
 - AutoFileName
 - Color Highlighter
 	- [__Preferences__ -> __Package Settings__ -> __ColorHighlighter__ -> __Settings - Default__](ColorHighlighter-default.md)
