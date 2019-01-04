@@ -53,6 +53,12 @@ key | action
 	- remove '-' from: ```“word_separators”: “./\()"’-:,.;<>~!@#$%^&*|+=[]{}`~?”,```
 
 
+## Install Package Control
+1. Copy code from [this site](https://packagecontrol.io/installation#st2)
+2. Open console `Ctrl-`` and paste code.
+3. Restart
+
+
 ## Packages
 - AlignTab
 	- [__Preferences__ -> __Package Settings__ -> __AlignTab__ -> __Settings - Default__](AlignTab-default.md)
