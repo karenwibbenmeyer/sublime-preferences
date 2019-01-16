@@ -65,6 +65,7 @@ key | action
 - AutoFileName
 - Color Highlighter
 	- [__Preferences__ -> __Package Settings__ -> __ColorHighlighter__ -> __Settings - Default__](ColorHighlighter-default.md)
+- Color Sublime (to test color themes before installing)
 - CSS Comments
 - Emmet
 - Git
